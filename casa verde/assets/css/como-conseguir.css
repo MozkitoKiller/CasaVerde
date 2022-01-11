@@ -1,0 +1,23 @@
+.como-conseguir {
+    margin-bottom: 5.635rem;
+}
+
+.conseguir--desktop {
+    display: none;
+}
+
+@media screen and (min-width: 1440px) {
+    .conseguir--desktop {
+        display: block;
+    }
+
+    .como-conseguir {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        top: 14rem;
+        padding-top: 3rem;
+       
+    }
+    
+}

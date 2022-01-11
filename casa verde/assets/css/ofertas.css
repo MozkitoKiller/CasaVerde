@@ -1,0 +1,14 @@
+.ofertas {
+    padding-bottom: 3.9rem;
+}
+
+@media screen and (min-width: 1440px) {
+
+    .ofertas {
+        margin-top: 16rem;
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+ 
+    
+}
